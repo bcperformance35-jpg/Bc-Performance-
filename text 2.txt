@@ -25,7 +25,7 @@
 <body>
 
 <section class="hero">
-    <img src="IMG_3439.JPG.png" alt="BC Performance Logo" class="logo-img">
+    <img src="./IMG_3439.JPG.png" alt="BC Performance Logo" class="logo-img">
     <p style="letter-spacing: 1px; color: #aaa; text-transform: uppercase; font-size: 0.8rem; margin-top: 15px;">Professional Mechanic & Performance Specialist</p>
 </section>
 
